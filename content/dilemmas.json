@@ -1,0 +1,1752 @@
+[
+  {
+    "id": "E001",
+    "text": "Would you return a wallet you found if it had no ID inside?",
+    "category": "everyday",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "E002",
+    "text": "Is it OK to use a self-checkout if you have a full cart?",
+    "category": "everyday",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "E003",
+    "text": "Should you tell a neighbor their music is bothering you before calling the landlord?",
+    "category": "everyday",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "E004",
+    "text": "Would you keep a package delivered to you by mistake?",
+    "category": "everyday",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "E005",
+    "text": "Is it OK to park in an empty spot reserved for expectant parents if you are running late?",
+    "category": "everyday",
+    "tone": "party",
+    "difficulty": "hard"
+  },
+  {
+    "id": "E006",
+    "text": "Should you correct a cashier who gives you too much change?",
+    "category": "everyday",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "E007",
+    "text": "Would you report a coworker who takes long breaks if it affects your workload?",
+    "category": "everyday",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "E008",
+    "text": "Is it OK to reuse a disposable cup all day at a cafe without buying again?",
+    "category": "everyday",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "E009",
+    "text": "Should you pick up litter that is not yours?",
+    "category": "everyday",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "E010",
+    "text": "Would you pretend you did not see someone shoplift a small item?",
+    "category": "everyday",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "E011",
+    "text": "Is it OK to use your employer printer for personal documents occasionally?",
+    "category": "everyday",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "E012",
+    "text": "Should you let someone merge in traffic even if they waited until the last second?",
+    "category": "everyday",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "E013",
+    "text": "Would you confront someone who leaves a dog in a hot car?",
+    "category": "everyday",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "E014",
+    "text": "Is it OK to take the last slice of pizza at a work lunch?",
+    "category": "everyday",
+    "tone": "party",
+    "difficulty": "easy"
+  },
+  {
+    "id": "E015",
+    "text": "Should you disclose a harmless mistake you made that no one noticed yet?",
+    "category": "everyday",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "E016",
+    "text": "Would you give up your bus seat for someone who looks tired but not elderly?",
+    "category": "everyday",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "E017",
+    "text": "Is it OK to cancel plans because you need alone time without saying that?",
+    "category": "everyday",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "E018",
+    "text": "Should you tip on takeout you pick up yourself?",
+    "category": "everyday",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "E019",
+    "text": "Would you report a friend's minor fender-bender if they drove away?",
+    "category": "everyday",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "E020",
+    "text": "Is it OK to use a family member's streaming account after you moved out?",
+    "category": "everyday",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "E021",
+    "text": "Should you remind a forgetful elder they already told you that story?",
+    "category": "everyday",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "E022",
+    "text": "Would you keep a found twenty on the sidewalk with no one around?",
+    "category": "everyday",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "E023",
+    "text": "Is it OK to recline your seat on a short flight?",
+    "category": "everyday",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "E024",
+    "text": "Should you report a leaky faucet in a public restroom to staff?",
+    "category": "everyday",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "E025",
+    "text": "Would you lie about your reason for returning an item to get a refund?",
+    "category": "everyday",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "E026",
+    "text": "Is it OK to eat samples at the grocery store without intending to buy?",
+    "category": "everyday",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "E027",
+    "text": "Should you hold the elevator for someone who is far away and hurrying?",
+    "category": "everyday",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "E028",
+    "text": "Would you tell your boss a colleague took credit for your idea?",
+    "category": "everyday",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "E029",
+    "text": "Is it OK to ghost a handyman who gave a quote you dislike?",
+    "category": "everyday",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "E030",
+    "text": "Should you donate clothes you have not washed first?",
+    "category": "everyday",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "E031",
+    "text": "Would you use a sick day when you are burned out but not ill?",
+    "category": "everyday",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "E032",
+    "text": "Is it OK to bring your own snacks into a movie theater?",
+    "category": "everyday",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "E033",
+    "text": "Should you confront a parent whose child is bullying yours at the park?",
+    "category": "everyday",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "E034",
+    "text": "Would you keep quiet if a barista charged you for a smaller drink by mistake?",
+    "category": "everyday",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "E035",
+    "text": "Is it OK to ask a stranger to watch your bag for a minute?",
+    "category": "everyday",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "E036",
+    "text": "Should you report graffiti on a bench in a public park?",
+    "category": "everyday",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "E037",
+    "text": "Would you refuse to sign a petition you barely understand?",
+    "category": "everyday",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "E038",
+    "text": "Is it OK to skip voting in a local election because you feel uninformed?",
+    "category": "everyday",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "E039",
+    "text": "Should you tell a new neighbor their welcome party invite got lost?",
+    "category": "everyday",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "E040",
+    "text": "Would you return a library book you damaged and pay the fee?",
+    "category": "everyday",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "S001",
+    "text": "Would you tell a friend their partner was flirting with you?",
+    "category": "social",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "S002",
+    "text": "Is it OK to arrive empty-handed to a potluck if you forgot?",
+    "category": "social",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "S003",
+    "text": "Should you invite only half of a couple to your birthday dinner?",
+    "category": "social",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "S004",
+    "text": "Would you pretend you like a gift you will never use?",
+    "category": "social",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "S005",
+    "text": "Is it OK to ask how much someone paid for their house at a party?",
+    "category": "social",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "S006",
+    "text": "Should you tell the host their playlist is killing the vibe?",
+    "category": "social",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "S007",
+    "text": "Would you leave a group chat without explaining why?",
+    "category": "social",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "S008",
+    "text": "Is it OK to bring a plus-one when the invite said no guests?",
+    "category": "social",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "S009",
+    "text": "Should you correct someone who mispronounces your name after three times?",
+    "category": "social",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "S010",
+    "text": "Would you tell a friend they have food in their teeth before a photo?",
+    "category": "social",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "S011",
+    "text": "Is it OK to talk politics at a wedding reception?",
+    "category": "social",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "S012",
+    "text": "Should you split the bill evenly if you only had a salad?",
+    "category": "social",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "S013",
+    "text": "Would you confront a friend who always shows up late?",
+    "category": "social",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "S014",
+    "text": "Is it OK to swipe through someone's dating app on their phone as a joke?",
+    "category": "social",
+    "tone": "party",
+    "difficulty": "hard"
+  },
+  {
+    "id": "S015",
+    "text": "Should you invite your ex to a mutual friend's milestone party?",
+    "category": "social",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "S016",
+    "text": "Would you pretend you did not hear a friend trash-talk you?",
+    "category": "social",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "S017",
+    "text": "Is it OK to double-dip at a party if you are family?",
+    "category": "social",
+    "tone": "party",
+    "difficulty": "easy"
+  },
+  {
+    "id": "S018",
+    "text": "Should you ask someone why they do not drink at a bar night?",
+    "category": "social",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "S019",
+    "text": "Would you tell a coworker their joke offended you in front of others?",
+    "category": "social",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "S020",
+    "text": "Is it OK to recline on the couch at someone else's home without asking?",
+    "category": "social",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "S021",
+    "text": "Should you post a group photo if one person looks bad in it?",
+    "category": "social",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "S022",
+    "text": "Would you borrow a close friend's clothes without asking first?",
+    "category": "social",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "S023",
+    "text": "Is it OK to leave a party early without saying goodbye to everyone?",
+    "category": "social",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "S024",
+    "text": "Should you tell a bride you hate the bridesmaid dress?",
+    "category": "social",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "S025",
+    "text": "Would you match with a friend's sibling on a dating app on purpose?",
+    "category": "social",
+    "tone": "party",
+    "difficulty": "hard"
+  },
+  {
+    "id": "S026",
+    "text": "Is it OK to give unsolicited relationship advice at brunch?",
+    "category": "social",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "S027",
+    "text": "Should you invite your boss to a casual house party?",
+    "category": "social",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "S028",
+    "text": "Would you pretend you are busy to avoid a second date?",
+    "category": "social",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "S029",
+    "text": "Is it OK to eat the fancy snacks before other guests arrive?",
+    "category": "social",
+    "tone": "party",
+    "difficulty": "easy"
+  },
+  {
+    "id": "S030",
+    "text": "Should you tell a friend their new tattoo looks like a mistake?",
+    "category": "social",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "S031",
+    "text": "Would you side with your partner over your best friend in a public argument?",
+    "category": "social",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "S032",
+    "text": "Is it OK to ask someone when they plan to have kids at a gathering?",
+    "category": "social",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "S033",
+    "text": "Should you apologize for something you still think you were right about?",
+    "category": "social",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "S034",
+    "text": "Would you tell the group chat who was not invited to the outing?",
+    "category": "social",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "S035",
+    "text": "Is it OK to sit in the front passenger seat if you called shotgun last?",
+    "category": "social",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "S036",
+    "text": "Should you defend a quiet friend when others roast them gently?",
+    "category": "social",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "S037",
+    "text": "Would you cancel on friends to accept a better invite the same night?",
+    "category": "social",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "S038",
+    "text": "Is it OK to reuse a white lie your friend told so your stories match?",
+    "category": "social",
+    "tone": "party",
+    "difficulty": "hard"
+  },
+  {
+    "id": "S039",
+    "text": "Should you offer your seat at a crowded house party to someone older?",
+    "category": "social",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "S040",
+    "text": "Would you tell a host their pet jumped on the food while they were gone?",
+    "category": "social",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "H001",
+    "text": "Would you tell a friend their new haircut looks good if you think it doesn't?",
+    "category": "honesty",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "H002",
+    "text": "Is it OK to omit details on a resume that aren't strictly false?",
+    "category": "honesty",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "H003",
+    "text": "Should you tell kids the full truth about why a pet died?",
+    "category": "honesty",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "H004",
+    "text": "Would you confess to a harmless mistake that could get a coworker in trouble?",
+    "category": "honesty",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "H005",
+    "text": "Is it OK to pretend you didn't see a message to buy thinking time?",
+    "category": "honesty",
+    "tone": "party",
+    "difficulty": "easy"
+  },
+  {
+    "id": "H006",
+    "text": "Should you tell someone if their partner is cheating?",
+    "category": "honesty",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "H007",
+    "text": "Would you keep a surprise party secret even if asked directly?",
+    "category": "honesty",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "H008",
+    "text": "Is it OK to say you're fine when you're not?",
+    "category": "honesty",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "H009",
+    "text": "Should you disclose your salary if a colleague asks?",
+    "category": "honesty",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "H010",
+    "text": "Would you tell a host their cooking was great if it wasn't?",
+    "category": "honesty",
+    "tone": "party",
+    "difficulty": "easy"
+  },
+  {
+    "id": "H011",
+    "text": "Is it OK to read a partner's diary if you suspect they're hiding something?",
+    "category": "honesty",
+    "tone": "party",
+    "difficulty": "hard"
+  },
+  {
+    "id": "H012",
+    "text": "Should parents tell children when money is tight?",
+    "category": "honesty",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "H013",
+    "text": "Would you return extra change a cashier accidentally gave you?",
+    "category": "honesty",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "H014",
+    "text": "Is it OK to ghost someone after one boring date?",
+    "category": "honesty",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "H015",
+    "text": "Should you correct a stranger who misstates a harmless fact?",
+    "category": "honesty",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "H016",
+    "text": "Would you lie to protect a friend's surprise proposal plan?",
+    "category": "honesty",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "H017",
+    "text": "Is it OK to keep a mental health diagnosis private from family?",
+    "category": "honesty",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "H018",
+    "text": "Should you tell a friend they're bad at singing before karaoke night?",
+    "category": "honesty",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "H019",
+    "text": "Would you admit you broke something at a friend's house?",
+    "category": "honesty",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "H020",
+    "text": "Is it OK to exaggerate stories at parties for laughs?",
+    "category": "honesty",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "H021",
+    "text": "Should doctors always tell patients the worst-case scenario first?",
+    "category": "honesty",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "H022",
+    "text": "Would you tell your boss you disagree in a meeting if others stay silent?",
+    "category": "honesty",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "H023",
+    "text": "Is it OK to let someone believe a gift cost more than it did?",
+    "category": "honesty",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "H024",
+    "text": "Should you warn a new hire that the manager is difficult?",
+    "category": "honesty",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "H025",
+    "text": "Would you fake enthusiasm for a friend's MLM pitch to keep peace?",
+    "category": "honesty",
+    "tone": "party",
+    "difficulty": "hard"
+  },
+  {
+    "id": "H026",
+    "text": "Is it OK to withhold that you once dated someone's current partner?",
+    "category": "honesty",
+    "tone": "party",
+    "difficulty": "hard"
+  },
+  {
+    "id": "H027",
+    "text": "Should kids be told Santa isn't real before they ask?",
+    "category": "honesty",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "H028",
+    "text": "Would you tell a relative their political post is misleading?",
+    "category": "honesty",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "H029",
+    "text": "Is it OK to use a flattering photo that's several years old on a profile?",
+    "category": "honesty",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "H030",
+    "text": "Should you confess feelings for someone who's in a relationship?",
+    "category": "honesty",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "H031",
+    "text": "Would you tell the truth if it ruined a family holiday tradition?",
+    "category": "honesty",
+    "tone": "family",
+    "difficulty": "hard"
+  },
+  {
+    "id": "H032",
+    "text": "Is it OK to promise attendance knowing you might cancel?",
+    "category": "honesty",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "H033",
+    "text": "Should you disclose you were fired when a new friend asks about your job?",
+    "category": "honesty",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "H034",
+    "text": "Would you pretend you didn't overhear coworkers gossiping about you?",
+    "category": "honesty",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "H035",
+    "text": "Is it OK to keep a harmless secret a child asked you not to share?",
+    "category": "honesty",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "M001",
+    "text": "Would you report a coworker for mild expense-padding?",
+    "category": "money",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "M002",
+    "text": "Is it OK to negotiate salary using another offer you don't intend to take?",
+    "category": "money",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "M003",
+    "text": "Should you tip on takeout the same as dine-in?",
+    "category": "money",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "M004",
+    "text": "Would you lend money to a friend who already owes you?",
+    "category": "money",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "M005",
+    "text": "Is it OK to buy generic and pass it off as name-brand at a potluck?",
+    "category": "money",
+    "tone": "party",
+    "difficulty": "easy"
+  },
+  {
+    "id": "M006",
+    "text": "Should wealthy relatives help pay for a sibling's wedding?",
+    "category": "money",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "M007",
+    "text": "Would you work a side job your main employer forbids?",
+    "category": "money",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "M008",
+    "text": "Is it OK to return worn clothes if the tag is still on?",
+    "category": "money",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "M009",
+    "text": "Should parents charge adult children rent while they live at home?",
+    "category": "money",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "M010",
+    "text": "Would you invest in a friend's risky startup to preserve the friendship?",
+    "category": "money",
+    "tone": "party",
+    "difficulty": "hard"
+  },
+  {
+    "id": "M011",
+    "text": "Is it OK to use a company card for a meal that's mostly personal?",
+    "category": "money",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "M012",
+    "text": "Should you split a bill evenly if you ordered much less?",
+    "category": "money",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "M013",
+    "text": "Would you take a higher-paying job you dislike over a passion job that pays less?",
+    "category": "money",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "M014",
+    "text": "Is it OK to crowdfund for a vacation instead of an emergency?",
+    "category": "money",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "M015",
+    "text": "Should inheritance be split equally regardless of need?",
+    "category": "money",
+    "tone": "family",
+    "difficulty": "hard"
+  },
+  {
+    "id": "M016",
+    "text": "Would you sell a gift you never wanted?",
+    "category": "money",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "M017",
+    "text": "Is it OK to freelance using skills you learned on another company's dime?",
+    "category": "money",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "M018",
+    "text": "Should you disclose a known defect when selling a used car privately?",
+    "category": "money",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "M019",
+    "text": "Would you boycott a brand you love over one ethical scandal?",
+    "category": "money",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "M020",
+    "text": "Is it OK to ask friends to invest in your business without a formal plan?",
+    "category": "money",
+    "tone": "party",
+    "difficulty": "hard"
+  },
+  {
+    "id": "M021",
+    "text": "Should kids get paid for chores beyond basics?",
+    "category": "money",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "M022",
+    "text": "Would you pay more for local goods if the quality is similar?",
+    "category": "money",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "M023",
+    "text": "Is it OK to use a coupon stack the cashier didn't notice?",
+    "category": "money",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "M024",
+    "text": "Should you turn down a promotion that would hurt your team's morale?",
+    "category": "money",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "M025",
+    "text": "Would you lie about your budget to avoid splitting an expensive gift?",
+    "category": "money",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "M026",
+    "text": "Is it OK to pay cash to a tradesperson to avoid taxes they suggested?",
+    "category": "money",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "M027",
+    "text": "Should partners have fully joint finances once married?",
+    "category": "money",
+    "tone": "family",
+    "difficulty": "hard"
+  },
+  {
+    "id": "M028",
+    "text": "Would you choose a commission-only sales job for uncapped upside?",
+    "category": "money",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "M029",
+    "text": "Is it OK to resell limited-edition items at a steep markup?",
+    "category": "money",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "M030",
+    "text": "Should you donate publicly to encourage others, not just privately?",
+    "category": "money",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "R001",
+    "text": "Would you tell a sibling their partner was flirting with you if nothing happened?",
+    "category": "relationships",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "R002",
+    "text": "Is it OK to skip a family holiday to save money?",
+    "category": "relationships",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "R003",
+    "text": "Should you stay friends with someone who always one-ups your stories?",
+    "category": "relationships",
+    "tone": "party",
+    "difficulty": "easy"
+  },
+  {
+    "id": "R004",
+    "text": "Would you lie to protect a friend from a harsh truth they asked for?",
+    "category": "relationships",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "R005",
+    "text": "Is it OK to date your ex's close friend after a year?",
+    "category": "relationships",
+    "tone": "party",
+    "difficulty": "hard"
+  },
+  {
+    "id": "R006",
+    "text": "Should you tell parents you're not coming home for their milestone birthday?",
+    "category": "relationships",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "R007",
+    "text": "Would you cover for a coworker who is really your cousin?",
+    "category": "relationships",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "R008",
+    "text": "Is it OK to ghost someone after three great dates?",
+    "category": "relationships",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "R009",
+    "text": "Should you invite the relative nobody likes to the wedding?",
+    "category": "relationships",
+    "tone": "family",
+    "difficulty": "hard"
+  },
+  {
+    "id": "R010",
+    "text": "Would you tell a friend their partner is cheating if you only have a hunch?",
+    "category": "relationships",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "R011",
+    "text": "Is it OK to keep a secret your parent asked you never to tell your sibling?",
+    "category": "relationships",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "R012",
+    "text": "Should you split the bill evenly when one friend ordered twice as much?",
+    "category": "relationships",
+    "tone": "party",
+    "difficulty": "easy"
+  },
+  {
+    "id": "R013",
+    "text": "Would you stay loyal to a childhood friend who became unreliable?",
+    "category": "relationships",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "R014",
+    "text": "Is it OK to read your teen's diary if you fear they're in danger?",
+    "category": "relationships",
+    "tone": "family",
+    "difficulty": "hard"
+  },
+  {
+    "id": "R015",
+    "text": "Should you tell your partner you don't like their best friend?",
+    "category": "relationships",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "R016",
+    "text": "Would you pretend to like a gift from your in-laws?",
+    "category": "relationships",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "R017",
+    "text": "Is it OK to cancel plans last minute for a better offer?",
+    "category": "relationships",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "R018",
+    "text": "Should you pick sides in your parents' divorce?",
+    "category": "relationships",
+    "tone": "family",
+    "difficulty": "hard"
+  },
+  {
+    "id": "R019",
+    "text": "Would you tell a friend they're being talked about behind their back?",
+    "category": "relationships",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "R020",
+    "text": "Is it OK to keep dating two people who don't know about each other?",
+    "category": "relationships",
+    "tone": "party",
+    "difficulty": "hard"
+  },
+  {
+    "id": "R021",
+    "text": "Should you loan money to a sibling who never pays you back?",
+    "category": "relationships",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "R022",
+    "text": "Would you unfollow a friend who posts too much drama?",
+    "category": "relationships",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "R023",
+    "text": "Is it OK to bring a new partner to a family event unannounced?",
+    "category": "relationships",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "R024",
+    "text": "Should you tell your kid their hero relative did something wrong?",
+    "category": "relationships",
+    "tone": "family",
+    "difficulty": "hard"
+  },
+  {
+    "id": "R025",
+    "text": "Would you end a friendship over political posts?",
+    "category": "relationships",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "R026",
+    "text": "Is it OK to skip your friend's destination wedding?",
+    "category": "relationships",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "R027",
+    "text": "Should you confess a crush to a friend who's in a relationship?",
+    "category": "relationships",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "R028",
+    "text": "Would you let a parent move in to save on rent?",
+    "category": "relationships",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "R029",
+    "text": "Is it OK to keep a friendship secret from your partner?",
+    "category": "relationships",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "R030",
+    "text": "Should you invite your ex to your wedding?",
+    "category": "relationships",
+    "tone": "party",
+    "difficulty": "easy"
+  },
+  {
+    "id": "T001",
+    "text": "Is it OK to use a friend's streaming login without asking?",
+    "category": "technology",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "T002",
+    "text": "Should employers read employees' work Slack DMs for misconduct?",
+    "category": "technology",
+    "tone": "family",
+    "difficulty": "hard"
+  },
+  {
+    "id": "T003",
+    "text": "Would you post a group photo if one person looks terrible?",
+    "category": "technology",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "T004",
+    "text": "Is it OK to use AI to write a heartfelt apology?",
+    "category": "technology",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "T005",
+    "text": "Should parents track a teen's phone location 24/7?",
+    "category": "technology",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "T006",
+    "text": "Would you swipe right on someone you know is taken?",
+    "category": "technology",
+    "tone": "party",
+    "difficulty": "hard"
+  },
+  {
+    "id": "T007",
+    "text": "Is it OK to leave a one-star review over a rude text?",
+    "category": "technology",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "T008",
+    "text": "Should companies sell anonymized user data for research?",
+    "category": "technology",
+    "tone": "family",
+    "difficulty": "hard"
+  },
+  {
+    "id": "T009",
+    "text": "Would you use a deepfake filter for a job interview video?",
+    "category": "technology",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "T010",
+    "text": "Is it OK to read public comments but never post yourself?",
+    "category": "technology",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "T011",
+    "text": "Should schools ban phones during the entire school day?",
+    "category": "technology",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "T012",
+    "text": "Would you report a stranger's illegal stream if it hurt a creator you like?",
+    "category": "technology",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "T013",
+    "text": "Is it OK to use ChatGPT for homework without telling the teacher?",
+    "category": "technology",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "T014",
+    "text": "Should you confront someone who subtweets you?",
+    "category": "technology",
+    "tone": "party",
+    "difficulty": "easy"
+  },
+  {
+    "id": "T015",
+    "text": "Would you let an AI summarize your medical records for you?",
+    "category": "technology",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "T016",
+    "text": "Is it OK to photoshop your vacation pics before sharing?",
+    "category": "technology",
+    "tone": "party",
+    "difficulty": "easy"
+  },
+  {
+    "id": "T017",
+    "text": "Should dating apps show a verified income range?",
+    "category": "technology",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "T018",
+    "text": "Would you use a password manager shared with a partner?",
+    "category": "technology",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "T019",
+    "text": "Is it OK to scrape public profiles to build a people-search site?",
+    "category": "technology",
+    "tone": "family",
+    "difficulty": "hard"
+  },
+  {
+    "id": "T020",
+    "text": "Should you reply-all to correct a harmless mistake?",
+    "category": "technology",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "T021",
+    "text": "Would you trust AI to pick your investments?",
+    "category": "technology",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "T022",
+    "text": "Is it OK to record a public meltdown and post it online?",
+    "category": "technology",
+    "tone": "party",
+    "difficulty": "hard"
+  },
+  {
+    "id": "T023",
+    "text": "Should kids under 13 have social media with parental controls only?",
+    "category": "technology",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "T024",
+    "text": "Would you pay for ad-free apps if it meant less privacy?",
+    "category": "technology",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "T025",
+    "text": "Is it OK to use a VPN to get cheaper regional prices?",
+    "category": "technology",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "X001",
+    "text": "Would you take a pill that erases one painful memory forever?",
+    "category": "hypothetical",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "X002",
+    "text": "Should you save a stranger or your pet from a runaway cart?",
+    "category": "hypothetical",
+    "tone": "family",
+    "difficulty": "hard"
+  },
+  {
+    "id": "X003",
+    "text": "Would you swap bodies with your rival for a week?",
+    "category": "hypothetical",
+    "tone": "party",
+    "difficulty": "easy"
+  },
+  {
+    "id": "X004",
+    "text": "Is it OK to know your exact death date if you can't change it?",
+    "category": "hypothetical",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "X005",
+    "text": "Would you live twice as long if you aged half as fast socially?",
+    "category": "hypothetical",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "X006",
+    "text": "Should you accept $1M to never use social media again?",
+    "category": "hypothetical",
+    "tone": "party",
+    "difficulty": "easy"
+  },
+  {
+    "id": "X007",
+    "text": "Would you press a button that gives you skill but takes it from a random person?",
+    "category": "hypothetical",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "X008",
+    "text": "Is it OK to clone your pet if the clone won't remember you?",
+    "category": "hypothetical",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "X009",
+    "text": "Would you time-travel to fix one mistake if it might erase a friendship?",
+    "category": "hypothetical",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "X010",
+    "text": "Should you hear every lie as a beep in your ear?",
+    "category": "hypothetical",
+    "tone": "party",
+    "difficulty": "hard"
+  },
+  {
+    "id": "X011",
+    "text": "Would you live on Mars first if return was uncertain?",
+    "category": "hypothetical",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "X012",
+    "text": "Is it OK to upload your mind if your body stays behind?",
+    "category": "hypothetical",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "X013",
+    "text": "Would you trade your talent for guaranteed happiness?",
+    "category": "hypothetical",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "X014",
+    "text": "Should you know which dreams are shared by others?",
+    "category": "hypothetical",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "X015",
+    "text": "Would you reset Earth to fix climate if history restarts?",
+    "category": "hypothetical",
+    "tone": "family",
+    "difficulty": "hard"
+  },
+  {
+    "id": "X016",
+    "text": "Is it OK to be immortal if everyone you love is not?",
+    "category": "hypothetical",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "X017",
+    "text": "Would you shrink to ant size for a day for science?",
+    "category": "hypothetical",
+    "tone": "party",
+    "difficulty": "easy"
+  },
+  {
+    "id": "X018",
+    "text": "Should you accept perfect luck if bad luck hits strangers?",
+    "category": "hypothetical",
+    "tone": "family",
+    "difficulty": "hard"
+  },
+  {
+    "id": "X019",
+    "text": "Would you speak every language if you lost your native accent?",
+    "category": "hypothetical",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "X020",
+    "text": "Is it OK to live in a simulation if it feels real?",
+    "category": "hypothetical",
+    "tone": "party",
+    "difficulty": "hard"
+  },
+  {
+    "id": "X021",
+    "text": "Would you give up music forever for perfect silence when you want it?",
+    "category": "hypothetical",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "X022",
+    "text": "Should you split one wish three ways with strangers?",
+    "category": "hypothetical",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "X023",
+    "text": "Would you relive your best day on loop for a year?",
+    "category": "hypothetical",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "X024",
+    "text": "Is it OK to terraform a lifeless planet if it might have hidden life?",
+    "category": "hypothetical",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "X025",
+    "text": "Would you swap places with your future self for one week?",
+    "category": "hypothetical",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "L001",
+    "text": "Is it OK to bring your own hot sauce to every restaurant?",
+    "category": "lifestyle",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "L002",
+    "text": "Should you recline your seat on a short domestic flight?",
+    "category": "lifestyle",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "L003",
+    "text": "Would you skip the gym to sleep in after a rough week?",
+    "category": "lifestyle",
+    "tone": "party",
+    "difficulty": "easy"
+  },
+  {
+    "id": "L004",
+    "text": "Is it OK to book the last slice of shared vacation time first?",
+    "category": "lifestyle",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "L005",
+    "text": "Should pets sleep in the bed?",
+    "category": "lifestyle",
+    "tone": "family",
+    "difficulty": "hard"
+  },
+  {
+    "id": "L006",
+    "text": "Would you finish a book you hate just to say you did?",
+    "category": "lifestyle",
+    "tone": "party",
+    "difficulty": "easy"
+  },
+  {
+    "id": "L007",
+    "text": "Is it OK to double-dip a chip at a party if it's your close friends?",
+    "category": "lifestyle",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "L008",
+    "text": "Should you tip on takeout orders?",
+    "category": "lifestyle",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "L009",
+    "text": "Would you hike a popular trail at sunrise to avoid crowds?",
+    "category": "lifestyle",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "L010",
+    "text": "Is it OK to wear headphones at the dinner table?",
+    "category": "lifestyle",
+    "tone": "family",
+    "difficulty": "medium"
+  },
+  {
+    "id": "L011",
+    "text": "Should you correct someone's pronunciation of a dish at a restaurant?",
+    "category": "lifestyle",
+    "tone": "party",
+    "difficulty": "easy"
+  },
+  {
+    "id": "L012",
+    "text": "Would you adopt a senior pet knowing vet bills may be high?",
+    "category": "lifestyle",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "L013",
+    "text": "Is it OK to eat dessert before dinner on vacation?",
+    "category": "lifestyle",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "L014",
+    "text": "Should you invite plus-ones to a small dinner party?",
+    "category": "lifestyle",
+    "tone": "both",
+    "difficulty": "medium"
+  },
+  {
+    "id": "L015",
+    "text": "Would you train a dog with treats only and never a stern voice?",
+    "category": "lifestyle",
+    "tone": "family",
+    "difficulty": "hard"
+  },
+  {
+    "id": "L016",
+    "text": "Is it OK to ghost a hobby group that drains your weekends?",
+    "category": "lifestyle",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "L017",
+    "text": "Should you try a friend's weird food combo in public?",
+    "category": "lifestyle",
+    "tone": "party",
+    "difficulty": "easy"
+  },
+  {
+    "id": "L018",
+    "text": "Would you pay extra for a direct flight every time?",
+    "category": "lifestyle",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "L019",
+    "text": "Is it OK to reuse a gift bag someone gave you?",
+    "category": "lifestyle",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "L020",
+    "text": "Should you tell a host you're vegan after they already cooked?",
+    "category": "lifestyle",
+    "tone": "both",
+    "difficulty": "hard"
+  },
+  {
+    "id": "L021",
+    "text": "Would you run a marathon untrained for a charity dare?",
+    "category": "lifestyle",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "L022",
+    "text": "Is it OK to name a pet after a celebrity?",
+    "category": "lifestyle",
+    "tone": "family",
+    "difficulty": "easy"
+  },
+  {
+    "id": "L023",
+    "text": "Should you post gym selfies?",
+    "category": "lifestyle",
+    "tone": "party",
+    "difficulty": "medium"
+  },
+  {
+    "id": "L024",
+    "text": "Would you skip sunscreen on a cloudy beach day?",
+    "category": "lifestyle",
+    "tone": "both",
+    "difficulty": "easy"
+  },
+  {
+    "id": "L025",
+    "text": "Is it OK to bring store-bought pie to Thanksgiving?",
+    "category": "lifestyle",
+    "tone": "family",
+    "difficulty": "medium"
+  }
+]
